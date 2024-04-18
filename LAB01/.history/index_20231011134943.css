@@ -1,0 +1,16 @@
+h3.name{
+    color: blue !important; 
+}
+
+h4.id{
+     font-weight: bold;
+}
+
+h4.course{ 
+    font-weight: bold;
+}
+h4.labname{ 
+    font-style: italic;
+}
+
+rect { fill: blue; }

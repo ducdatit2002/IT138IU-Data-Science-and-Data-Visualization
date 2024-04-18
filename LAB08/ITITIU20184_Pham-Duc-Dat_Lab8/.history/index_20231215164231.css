@@ -1,0 +1,18 @@
+.hidden {
+    display: none;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 6px;
+    font: 15px sans-serif;
+    color: white;
+    background: rgb(57, 60, 63);
+    border: 5px;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0.9;
+}

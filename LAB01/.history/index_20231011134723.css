@@ -1,0 +1,16 @@
+sh3{
+    color: #09316e; 
+}
+
+h4.id{
+     font-weight: bold;
+}
+
+h4.course{ 
+    font-weight: bold;
+}
+h4.labname{ 
+    font-style: italic;
+}
+
+rect { fill: blue; }
